@@ -1,0 +1,45 @@
+/*
+Custom Css
+*/
+
+.destacados{
+  width: 100%;
+}
+
+.logo{
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.contact-icn{
+  text-decoration: none;
+  color: black;
+}
+
+.contact-icn:hover{
+  color: #69bb7e;
+}
+
+.contact-icn i{
+  font-size: 400%;
+}
+
+.row-cont{
+  margin: 100px 0px;
+  gap: 100px 0px;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+.underlined{
+  text-decoration: underline;
+}
+
+.rounded-0 {
+  border-radius: 0!important;
+  height: 95%;
+  object-fit: contain;
+}
